@@ -1,0 +1,12 @@
+Nombre: 
+
+M
+
+Sexo: 
+
+Femenino
+
+Estatura: 
+165
+Peso: 
+45
